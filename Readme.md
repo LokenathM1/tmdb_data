@@ -15,16 +15,16 @@ The results are presented in an interactive Power BI dashboard, which can be acc
 ## Dataset Description
 The dataset comprises over 900,000 rows  
 
--`id`	Unique identifier for each movie in the TMDB
--`title`	The official title of the movie
--`vote_average`	Average rating of the movie on a scale from 0 to 10
--`vote_count`	Number of votes that contributed to the movie's rating
--`status`	Current release status of the movie (e.g., Released, Post Production)
--`release_date`	Date when the movie was officially released
--`revenue`	Box office earnings of the movie
--`runtime`	Duration of the movie in minutes
--`budget`	Financial budget allocated for the movie production
--`imdb_id`	Identifier for the movie in the Internet Movie Database (IMDb)
+- `id`	Unique identifier for each movie in the TMDB
+- `title`	The official title of the movie
+- `vote_average`	Average rating of the movie on a scale from 0 to 10
+- `vote_count`	Number of votes that contributed to the movie's rating
+- `status`	Current release status of the movie (e.g., Released, Post Production)
+- `release_date`	Date when the movie was officially released
+- `revenue`	Box office earnings of the movie
+- `runtime`	Duration of the movie in minutes
+- `budget`	Financial budget allocated for the movie production
+- `imdb_id`	Identifier for the movie in the Internet Movie Database (IMDb)
 
 
 ## Tools and Technologies
